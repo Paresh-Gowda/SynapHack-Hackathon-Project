@@ -1,4 +1,4 @@
-# SynapHack Hackathon Project
+# 🚀 SynapHack Hackathon Project 
 
 SynapHack is a complete hackathon management platform built to foster innovation, collaboration, and creativity.
 It enables organizers to host events, participants to join and compete, and teams to showcase their talent by building and submitting projects. Designed with simplicity and efficiency in mind, SynapHack bridges the gap between organizers and innovators, making hackathons more engaging and productive.  
